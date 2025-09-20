@@ -66,10 +66,6 @@ The **ELiteTEch ML Internship** focuses on:
 
 ---
 
-## 📬 Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pranav-rajput-648224299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or email me at **putrajpranav@gmai.com** for questions, suggestions, or collaborations.
-
 ---
 
 > *"Learn – Innovate – Thrive" – ELiteTEch Internship Motto*
